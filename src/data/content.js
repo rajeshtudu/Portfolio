@@ -11,13 +11,6 @@ export const profile = {
 
 export const projects = [
   {
-    title: "Document Q&A + Appointment Chatbot",
-    desc: "A Streamlit-based chatbot that answers questions from uploaded PDF/TXT documents using Google Gemini via LangChain, and supports appointment booking through a conversational form with validations and session-based chat history.",
-    tech: ["Python", "Streamlit", "LangChain", "Google Gemini", "LLM", "PDF", "RAG"],
-    live: "https://palm-mind-project.streamlit.app/",
-    code: "https://github.com/rajeshtudu/Chat_Bot",
-  },
-  {
     title: "SERP Live Tracker + Analyzer (Streamlit)",
     desc: "A Streamlit-based SERP tracking dashboard that fetches Google results via the Programmable Search (Custom Search JSON API), stores ranking snapshots over time, and visualizes volatility, rank movement, and domain trends using interactive Plotly charts.",
     tech: ["Python", "Streamlit", "Google Custom Search API", "Plotly", "SEO", "CSV"],
