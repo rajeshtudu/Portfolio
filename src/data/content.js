@@ -11,18 +11,32 @@ export const profile = {
 
 export const projects = [
   {
-    title: "Project One",
-    desc: "Short description of your project and the problem it solves.",
-    tech: ["React", "Vite", "Tailwind"],
-    live: "https://example.com",
-    code: "https://github.com/yourname/project-one",
+    title: "Document Q&A + Appointment Chatbot",
+    desc: "A Streamlit-based chatbot that answers questions from uploaded PDF/TXT documents using Google Gemini via LangChain, and supports appointment booking through a conversational form with validations and session-based chat history.",
+    tech: ["Python", "Streamlit", "LangChain", "Google Gemini", "LLM", "PDF", "RAG"],
+    live: "",
+    code: "https://github.com/rajeshtudu/Chat_Bot",
   },
   {
-    title: "Project Two",
-    desc: "Short description of another project.",
-    tech: ["React", "API", "Charts"],
-    live: "https://example.com",
-    code: "https://github.com/yourname/project-two",
+    title: "SERP Live Tracker + Analyzer (Streamlit)",
+    desc: "A Streamlit-based SERP tracking dashboard that fetches Google results via the Programmable Search (Custom Search JSON API), stores ranking snapshots over time, and visualizes volatility, rank movement, and domain trends using interactive Plotly charts.",
+    tech: ["Python", "Streamlit", "Google Custom Search API", "Plotly", "SEO", "CSV"],
+    live: "",
+    code: "https://github.com/rajeshtudu/SERP-Live-Analyzer",
+  },
+  {
+    title: "Schema Generator (Streamlit)",
+    desc: "A Streamlit-based Schema.org JSON-LD generator for Homepage, Local Business, Service, Collection, and Product pages. Includes optional enhancement blocks like FAQ, Breadcrumbs, Ratings, Shipping, Return Policies, and exports schema in JSON-LD or script tag format.",
+    tech: ["Python", "Streamlit", "Schema.org", "JSON-LD", "SEO"],
+    live: "",
+    code: "https://github.com/rajeshtudu/Schema-Generator",
+  },
+  {
+    title: "Knowledge Base Scraper",
+    desc: "Scrapes knowledge base content and structures it for analysis, storage, or AI training workflows.",
+    tech: ["Python", "Web Scraping", "Automation", "Knowledge Base"],
+    live: "",
+    code: "https://github.com/rajeshtudu/Knowledge_Base_Scraper",
   },
 ];
 
