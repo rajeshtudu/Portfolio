@@ -43,31 +43,31 @@ export const projects = [
 export const skills = [
   {
     title: "Programming Languages",
-    items: ["Java", "Python", "C", "C++", "JavaScript"],
+    tech: ["Java", "Python", "C", "C++", "JavaScript"],
   },
   {
     title: "Frontend",
-    items: ["React", "Redux", "Next JS", "WordPress", "HTML"],
+    tech: ["React", "Redux", "Next JS", "WordPress", "HTML"],
   },
   {
     title: "CSS / Styling",
-    items: ["CSS", "SASS", "Bootstrap", "Tailwind"],
+    tech: ["CSS", "SASS", "Bootstrap", "Tailwind"],
   },
   {
     title: "Backend",
-    items: ["NodeJS", "REST API", "MySQL", "SQLite", "PHP"],
+    tech: ["NodeJS", "REST API", "MySQL", "SQLite", "PHP"],
   },
   {
     title: "Deployment",
-    items: ["AWS", "Digital Ocean"],
+    tech: ["AWS", "Digital Ocean"],
   },
   {
     title: "Other Tools",
-    items: ["Git", "GitHub", "Linux", "MS Office", "DNS Management"],
+    tech: ["Git", "GitHub", "Linux", "MS Office", "DNS Management"],
   },
   {
     title: "Soft Skills",
-    items: ["Strong Communication", "Leadership", "Teamwork", "Time Management"],
+    tech: ["Strong Communication", "Leadership", "Teamwork", "Time Management"],
   },
 ];
 
