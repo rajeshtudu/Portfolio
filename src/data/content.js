@@ -47,7 +47,7 @@ export const skills = [
   },
   {
     category: "Frontend",
-    items: ["React", "Redux", "Next JS", "WordPress", "HTML", "CSS", "JavaScript", "Tailwind"],
+    items: ["React", "Redux", "Next JS", "WordPress", "HTML"],
   },
   {
     category: "CSS / Styling",
