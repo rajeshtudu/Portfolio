@@ -82,6 +82,8 @@ export const workExperience = [
       "On-Page SEO",
       "Technical SEO",
       "E-commerce SEO",
+      "GSC", 
+      "GA4"
     ],
     link: "https://www.nepa.works/",
   },
@@ -91,7 +93,7 @@ export const workExperience = [
     location: "Kathmandu, Nepal",
     start: "Jul 2024",
     end: "Jun 2025",
-    bullets: ["E-commerce SEO", "On-Page SEO", "Technical SEO"],
+    bullets: ["E-commerce SEO", "On-Page SEO", "Technical SEO", "Shopify", "Wordpress", "GSC", "GA4", "Screaming Frog"],
     link: "https://rankmetop.net/", 
   },
   {
@@ -100,7 +102,7 @@ export const workExperience = [
     location: "Kathmandu, Nepal",
     start: "Jan 2024",
     end: "Jun 2024",
-    bullets: ["E-commerce SEO", "On-Page SEO", "Technical SEO"],
+    bullets: ["E-commerce SEO", "On-Page SEO", "Technical SEO", "Shopify", "Wordpress", "GSC", "GA4", "Screaming Frog"],
     link: "https://rankmetop.net/", 
   },
   {
