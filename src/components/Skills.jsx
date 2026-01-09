@@ -3,7 +3,7 @@ import { skills } from "../data/content";
 
 export default function Skills() {
   return (
-    <Section id="skills" title="Technical Skills">
+    <Section id="skills" title="Skills">
       <div className="grid gap-4 sm:grid-cols-2">
         {skills.map((s) => (
           <article
