@@ -41,12 +41,34 @@ export const projects = [
 ];
 
 export const skills = [
-  "React",
-  "JavaScript",
-  "HTML/CSS",
-  "Tailwind",
-  "Git/GitHub",
-  "REST APIs",
+  {
+    category: "Programming Languages",
+    items: ["Java", "Python", "C", "C++", "JavaScript"],
+  },
+  {
+    category: "Frontend",
+    items: ["React", "Redux", "Next JS", "WordPress", "HTML", "CSS", "JavaScript", "Tailwind"],
+  },
+  {
+    category: "CSS / Styling",
+    items: ["CSS", "SASS", "Bootstrap", "Tailwind"],
+  },
+  {
+    category: "Backend",
+    items: ["NodeJS", "REST API", "MySQL", "SQLite", "PHP"],
+  },
+  {
+    category: "Deployment",
+    items: ["AWS", "Digital Ocean"],
+  },
+  {
+    category: "Other Tools",
+    items: ["Git", "GitHub", "Linux", "MS Office", "DNS Management"],
+  },
+  {
+    category: "Soft Skills",
+    items: ["Strong Communication", "Leadership", "Teamwork", "Time Management"],
+  },
 ];
 
 export const certifications = [
