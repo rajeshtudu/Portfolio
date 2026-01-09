@@ -1,9 +1,9 @@
 const links = [
   ["About", "#about"],
+  ["Experience", "#experience"],
   ["Projects", "#projects"],
   ["Skills", "#skills"],
   ["Certifications", "#certifications"],
-  ["Experience", "#experience"],
   ["Mini Game", "#minigame"],
   ["Contact", "#contact"],
 ];
