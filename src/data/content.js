@@ -41,7 +41,7 @@ export const projects = [
 ];
 
 export const skills = [
-  "React",
+  "Programming Languages:Java, Python, C, C++, Javascript",
   "JavaScript",
   "HTML/CSS",
   "Tailwind",
