@@ -1,6 +1,6 @@
 export const profile = {
   name: "Rajesh Tudu",
-  tagline: "Frontend Developer • React",
+  tagline: "SEO Specialist • Automation",
   intro:
     "I’m an SEO Specialist passionate about boosting online visibility, driving organic traffic, and turning search strategies into real business growth. I love staying ahead of algorithm trends, optimizing content and technical performance, and using data to make smart decisions. With a growth mindset and a collaborative approach, I’m always exploring new ways to improve rankings, strengthen brand presence, and deliver measurable results. Always open to networking—let’s connect and turn search potential into success!",
   email: "tudurajesh34@gmailcom",
