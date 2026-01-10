@@ -129,8 +129,8 @@ export const workExperience = [
     role: "Data Entry Specialist",
     company: "RankMeTop",
     location: "Kathmandu, Nepal",
-    start: "Jan 2024",
-    end: "Jun 2024",
+    start: "Dec 2023",
+    end: "Jan 2024",
     bullets: [
       "Entered, updated, and maintained accurate data in databases, spreadsheets, and internal systems.",
       "Verified data accuracy by reviewing, correcting, and validating information from source documents.",
