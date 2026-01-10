@@ -113,7 +113,16 @@ export const workExperience = [
     location: "Kathmandu, Nepal",
     start: "Jan 2024",
     end: "Jun 2024",
-    bullets: ["E-commerce SEO", "On-Page SEO", "Technical SEO", "Shopify", "Wordpress", "GSC", "GA4", "Screaming Frog"],
+    bullets: [
+      "Assisted in executing SEO strategies to improve organic visibility and search rankings.",
+      "Conducted keyword research and supported content planning using tools like Google Keyword Planner and SEMrush.",
+      "Helped optimize on-page elements including meta titles, meta descriptions, headers, image alt text, and internal linking.",
+      "Performed basic technical SEO checks (indexing, crawl errors, sitemap/robots.txt) and reported issues to the team.",
+      "Supported content audits to refresh existing pages and improve keyword targeting and CTR.",
+      "Researched competitors to identify content gaps, backlink opportunities, and ranking trends.",
+      "Tracked weekly/monthly performance in Google Analytics and Google Search Console and assisted with KPI reporting.",
+      "Assisted with link-building outreach and maintained backlink records in spreadsheets."
+    ],
     link: "https://rankmetop.net/", 
   },
   {
@@ -122,7 +131,16 @@ export const workExperience = [
     location: "Kathmandu, Nepal",
     start: "Jan 2024",
     end: "Jun 2024",
-    bullets: ["Data Entry", "Excel"],
+    bullets: [
+      "Entered, updated, and maintained accurate data in databases, spreadsheets, and internal systems.",
+      "Verified data accuracy by reviewing, correcting, and validating information from source documents.",
+      "Organized and managed large volumes of records while meeting daily/weekly productivity targets.",
+      "Performed data cleaning tasks such as removing duplicates, standardizing formats, and correcting inconsistencies.",
+      "Generated basic reports and summaries using Excel/Google Sheets (sorting, filtering, and pivot tables when needed).",
+      "Maintained confidentiality and complied with data security and privacy guidelines.",
+      "Coordinated with teams to resolve missing or unclear information and ensure timely completion of tasks.",
+      "Improved workflow efficiency by creating templates and using keyboard shortcuts to speed up data processing."
+    ],
     link: "https://rankmetop.net/", 
   },
 ];
