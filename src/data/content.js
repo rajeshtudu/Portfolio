@@ -6,7 +6,7 @@ export const profile = {
   email: "tudurajesh34@gmailcom",
   github: "https://github.com/rajeshtudu",
   linkedin: "https://linkedin.com/in/rajeshtudu",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "https://drive.google.com/file/d/1gD_u6IsjpZV0wPyHdireKTaHVQedHyE0/view?usp=sharing",
 };
 
 export const projects = [
