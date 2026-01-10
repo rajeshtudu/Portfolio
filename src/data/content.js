@@ -79,14 +79,13 @@ export const workExperience = [
     start: "Dec 2025",
     end: "Present",
     bullets: [
-      "Developed and executed SEO strategies that increased organic traffic by 35% within six months.",
-      "Conducted in-depth keyword research to identify high-impact search opportunities.",
-      "Performed on-page optimization and technical SEO audits to improve rankings and crawlability.",
-      "Optimized meta titles, descriptions, headers, and internal links across 50+ pages, improving CTR and keyword positioning.",
-      "Analyzed competitors to uncover content gaps and growth opportunities.",
-      "Collaborated with content and development teams to implement SEO best practices site-wide.",
-      "Tracked performance using Google Analytics, Search Console, SEMrush, and Ahrefs, producing monthly KPI reports.",
-      "Managed backlink acquisition campaigns and adapted strategies based on Google algorithm updates."
+      "On-Page SEO",
+      "Technical SEO",
+      "E-commerce SEO",
+      "GSC", 
+      "GA4",
+      "Odoo",
+      "Screaming Frog"
     ],
     link: "https://www.nepa.works/",
   },
@@ -96,7 +95,16 @@ export const workExperience = [
     location: "Kathmandu, Nepal",
     start: "Jul 2024",
     end: "Jun 2025",
-    bullets: ["E-commerce SEO", "On-Page SEO", "Technical SEO", "Shopify", "Wordpress", "GSC", "GA4", "Screaming Frog"],
+    bullets: [
+      "Developed and executed SEO strategies that increased organic traffic by 35% within six months.",
+      "Conducted in-depth keyword research to identify high-impact search opportunities.",
+      "Performed on-page optimization and technical SEO audits to improve rankings and crawlability.",
+      "Optimized meta titles, descriptions, headers, and internal links across 50+ pages, improving CTR and keyword positioning.",
+      "Analyzed competitors to uncover content gaps and growth opportunities.",
+      "Collaborated with content and development teams to implement SEO best practices site-wide.",
+      "Tracked performance using Google Analytics, Search Console, SEMrush, and Ahrefs, producing monthly KPI reports.",
+      "Managed backlink acquisition campaigns and adapted strategies based on Google algorithm updates."
+    ],
     link: "https://rankmetop.net/", 
   },
   {
