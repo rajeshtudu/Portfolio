@@ -83,7 +83,9 @@ export const workExperience = [
       "Technical SEO",
       "E-commerce SEO",
       "GSC", 
-      "GA4"
+      "GA4",
+      "Odoo",
+      "Screaming Frog"
     ],
     link: "https://www.nepa.works/",
   },
