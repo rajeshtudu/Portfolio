@@ -16,7 +16,7 @@ const AboutSection = () => {
 
   const details = [
     { icon: Briefcase, label: 'Current Role', value: 'Jr. SEO Specialist at NEPA Works' },
-    { icon: MapPin, label: 'Location', value: 'Kathmandu, Nepal' },
+    { icon: MapPin, label: 'Location', value: 'Lalitpur, Nepal' },
     { icon: GraduationCap, label: 'Certified', value: 'Broadway Infosys' },
     { icon: TrendingUp, label: 'Focus', value: 'SEO & Automation' },
   ];
